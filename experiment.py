@@ -1,5 +1,4 @@
-# Student number: 17200844
-# Name: Jeet Banerjee
+# Experiments run on the main file connect_four.py
 import connect_four
 
 numberOfIterations = [80,150,500,2000]
