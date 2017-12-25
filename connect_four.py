@@ -1,5 +1,4 @@
-# Student number: 17200844
-# Name: Jeet Banerjee
+
 import random
 import sys
 import copy
